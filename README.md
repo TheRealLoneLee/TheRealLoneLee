@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/TheRealLoneLee/sussybaka">Q.U.E.E.F Quick Unix Email Exploit Finder.</a>
+Current Project: <a href="">Loki was here.</a>
 
 <p align="center">
   <!---<a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
