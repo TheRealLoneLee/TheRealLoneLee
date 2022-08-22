@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://projectsafehaven.net">Lee!</a></b>.
-    <br>I'm a self taught Java/Linux Enthusiast! Primarily focusing on Discord Bot development, Minecraft/Rust plugins and webDev, I am however currently in the proccess of learning python!  .<br>
+    <br>I'm a self taught Game dev & Linux Enthusiast! Primarily focusing on learning GdScript, C# and Javascript. Currently im working on a multitude of projects <3 .<br>
 
 </samp>
 
