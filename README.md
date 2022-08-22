@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://projectsafehaven.net">Lee!</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/c/thereallonelee/">Lee!</a></b>.
     <br>I'm a self taught Game dev & Linux Enthusiast! Primarily focusing on learning GdScript, C# and Javascript. Currently im working on a multitude of projects <3 .<br>
 
 </samp>
