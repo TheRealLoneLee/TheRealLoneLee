@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/c/thereallonelee/">Lee!</a></b>.
-    <br>I'm a self taught Game dev & Linux Enthusiast! Primarily focusing on learning GdScript, C# and Javascript. Currently im working on a multitude of projects <3 .<br>
+    <br>I'm a self taught Game dev & Linux Enthusiast! Primarily focusing on learning GdScript. Currently im working on a multitude of projects <3 .<br>
 
 </samp>
 
@@ -20,7 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="">Loki was here.</a>
+Current Project: <a href="https://github.com/TheRealLoneLee/EGG-SBIGJam">Egg Game</a>
 
 <p align="center">
   <!---<a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
@@ -31,7 +31,7 @@ Current Project: <a href="">Loki was here.</a>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCoNVHeY616vfZYgGhJzCIIA">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/c/TheRealLonelee">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
