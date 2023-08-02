@@ -14,7 +14,7 @@
 
 <details align="center">
 
-<summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary> <b> <samp> Light bonfire (CLICK THIS!!) </samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
@@ -31,7 +31,8 @@ Current Project: <a href="https://github.com/TheRealLoneLee/EGG-SBIGJam">Egg Gam
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/c/TheRealLonelee">
+  <a rel="nofollow noopener noreferrer"
+ target="_blank" href="https://www.youtube.com/c/TheRealLonelee">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
