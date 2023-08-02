@@ -6,7 +6,8 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width
+="200"/>
 
 </p>
 
@@ -34,7 +35,7 @@ Current Project: <a href="">Loki was here.</a>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.twitch.tv/tehreallonelee">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.twitch.tv/thareallonelee">
   <img src="https://banner2.cleanpng.com/20180408/pcq/kisspng-twitch-logo-streaming-media-computer-icons-gambit-5aca5ff060fbd8.0208805115232122723973.jpg" width="23px" alt="Secret"></a>
 </p> 
 
