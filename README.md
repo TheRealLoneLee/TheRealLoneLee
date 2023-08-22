@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/c/thereallonelee/">Lee!</a></b>.
-    <br>I'm a self taught Game dev & Linux Enthusiast! Primarily focusing on learning GdScript. Currently im working on a multitude of projects <3 .<br>
+    <br>I'm a self taught Game dev & Music Enthusiast! Primarily focusing on learning Lua & GdScript. Currently im working on a multitude of projects <3 .<br>
 
 </samp>
 
