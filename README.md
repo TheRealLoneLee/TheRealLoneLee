@@ -1,50 +1,38 @@
-<p align="center">
-  <br>
-  <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/c/thereallonelee/">Lee!</a></b>.
-    <br>I'm a self taught Game dev & Music Enthusiast! Primarily focusing on learning Lua & GdScript. Currently im working on a multitude of projects <3 .<br>
+# About me! 🖤
 
-</samp>
+Hey im Lee! A 22 year old self taught Developer, Music Producer, 3d artist, 2d artist and the list goes on! I have strong passion for anything in regards to creative outlets and am constantly seeking new things to learn!
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width
-="200"/>
+Currently im working on a couple things, primarily learning Lua and Moonscript, aswell as Indie game development via Love2D and Godot! But the main things im working on currently include:
 
+- Vtuber Boxing! (Exactly what it sounds like)
+- My own Pixel art 2d Indie game using Lua and Love2D
+- A couple small scripts and mods for popular games such as Baldurs Gate 3 and FiveM (GtaRP)
+- My own MachineLearning AI assistant tool for EveOnline
+
+When im not coding or working on various other Projects like Music or GameDev, im usually playing video games, or streaming live on Twitch (OR BOTH!), im an inspiring content creator in the making. Over the course of 2023 i have been consistently uploading content to YouTube, going live on Twitch, and networking like crazy in my spare time xD 
+
+## My skills! 📋
+<p align = center>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=lua,html,css,js,astro,cs,aws,cloudflare,firebase,py,flask,gcp,github,godot,unity,unreal,vscode,nodejs,tensorflow,ableton,discord,sqlite,pr,ps,linux,bots,blender,azure&perline=7" />
+  </a>
 </p>
 
+## &#x1f4c8; GitHub Stats
 
-<details align="center">
-
-<summary> <b> <samp> Light bonfire (CLICK THIS!!) </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-
-Current Project: <a href="https://github.com/TheRealLoneLee/EGG-SBIGJam">Egg Game</a>
-
-<p align="center">
-  <!---<a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a> --->
-  &nbsp; 
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/TheRealLoneLee">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
-  &nbsp; 
-  &nbsp;
-  <a rel="nofollow noopener noreferrer"
- target="_blank" href="https://www.youtube.com/c/TheRealLonelee">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
-  &nbsp;
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.twitch.tv/thareallonelee">
-  <img src="https://banner2.cleanpng.com/20180408/pcq/kisspng-twitch-logo-streaming-media-computer-icons-gambit-5aca5ff060fbd8.0208805115232122723973.jpg" width="23px" alt="Secret"></a>
-</p> 
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheRealLoneLee&theme=2077"  display=block width=100%></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheRealLoneLee&theme=2077"  display=block width=100%></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheRealLoneLee&theme=2077"  display=block width=100%></td>
+  </tr>
+</table>
 
 
-</samp>
-</details>
+## Social Media 🧑‍💻
+#### Contact me via Discord (prefered)
+- [Discord @TheRealLoneLee](discordapp.com/users/434500063989989376)
+- [My Discord Server](https://discord.gg/qea7NTugyr)
+- [Twitch](https://www.twitch.tv/thareallonelee)
+- [Youtube](https://www.youtube.com/c/TheRealLonelee)
 
-----
-Credits: [TanZng](https://github.com/TanZng)
-
-Last Edited on: 02/08/2023
