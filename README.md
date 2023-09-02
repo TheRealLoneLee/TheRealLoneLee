@@ -17,8 +17,7 @@ When im not coding or working on various other Projects like Music or GameDev, i
 
 ## My skills! 📋
 <p align = center>
-  <
-a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=lua,html,css,js,astro,cs,aws,cloudflare,firebase,py,flask,gcp,github,godot,unity,unreal,vscode,nodejs,tensorflow,ableton,discord,sqlite,pr,ps,linux,bots,blender,azure&perline=7" />
   </a>
 </p>
@@ -28,7 +27,8 @@ a href="https://skillicons.dev">
 <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thereallonelee&theme=2077"  display=block width=100%></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thereallonelee&theme=2077"  display=block width=100%></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thereallonelee&theme=2077"
+  display=block width=100%></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheRealLoneLee&theme=2077"  display=block width=100%></td>
   </tr>
 </table>
