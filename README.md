@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2500&pause=1500&color=FF006D&center=true&multiline=true&width=500&lines=%5C%5C+ENTRY+ACCEPTED+%2F%2F" alt="Typing SVG" /></a>
 </p>
-# About me! 🖤
+## About me! 🖤
 
 Hey im Lee! A 22 year old self taught Developer, Music Producer, 3d artist, 2d artist and the list goes on! I have strong passion for anything in regards to creative outlets and am constantly seeking new things to learn!
 
