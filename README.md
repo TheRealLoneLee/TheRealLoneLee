@@ -18,7 +18,7 @@ When im not coding or working on various other Projects like Music or GameDev, i
 ## My skills! 📋
 <p align = center>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=lua,html,css,js,astro,cs,aws,cloudflare,firebase,py,flask,gcp,github,godot,unity,unreal,vscode,nodejs,tensorflow,ableton,discord,sqlite,pr,ps,linux,bots,blender,azure&perline=7" />
+  <img src="https://skillicons.dev/icons?i=lua,ableton,discord,sqlite,html,css,js,astro,aws,cloudflare,py,flask,gcp,github,godot,unity,unreal,vscode,nodejs,tensorflow,pr,ps,linux,bots,blender,azure&perline=7" />
   </a>
 </p>
 
