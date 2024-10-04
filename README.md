@@ -4,7 +4,7 @@
 </p>
 ## About me! 🖤
 
-Hey im Lee! A 22 year old self taught Developer, Music Producer, 3d artist, 2d artist and the list goes on! I have strong passion for anything in regards to creative outlets and am constantly seeking new things to learn!
+Hey im Lee! A self taught Developer, Music Producer, 3d artist, 2d artist and the list goes on! I have strong passion for anything in regards to creative outlets and am constantly seeking new things to learn!
 
 Currently im working on a couple things, primarily learning Lua and Moonscript, aswell as Indie game development via Love2D and Godot! But the main things im working on currently include:
 
